@@ -23,7 +23,7 @@ The reading materials for Python basics can be found in `/python/notebooks/` fol
 
 The reading materials for Python basics can be found in `/sql/notebooks/` folder and assignments can be found in `/sql/exercises` folder.
 
-** This repository is pretty much a living one, the notebooks and exercises are updated as required. The material for the other sections will be added shortly **
+# **This repository is pretty much a living one, the notebooks and exercises are updated as required. The material for the other sections will be added shortly. Also, please feel free to open a PR if you want to add/modify the course contents**
 
 ### Getting started with learning materials
 
