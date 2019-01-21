@@ -27,6 +27,10 @@ The reading materials for Python basics can be found in `/sql/notebooks/` folder
 
 ### Getting started with learning materials
 
+You can clone this repository and launch jupyter and access the notebooks
+
+**OR**
+
 You can use **[Google Collab](https://colab.research.google.com/)** (a simple one click solution from Google) to read and playaround with the learning materials/notebooks. We recommend you to use this setup, to avoid any version or installation problems. To Open a notebook in this GitHub Repository in Google Collab:
 
 * Open **[Google Collab](https://colab.research.google.com/)** and choose **`GITHUB`** tab
