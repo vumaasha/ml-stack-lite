@@ -1,6 +1,6 @@
 # ml-stack-lite
 
-A minimal friendly introduction to tech stack for getting started with machine Learning and deep Learning in Python targeted for absolute beginners
+A minimal friendly introduction to tech stack for getting started with Machine Learning and Deep Learning in Python targeted for absolute beginners
 
 The course is structured to cover the following sections
 
@@ -17,7 +17,11 @@ Each section will be presented as notebooks, which will be self-contained and wi
 
 ## Python
 
-The reading materials for Python basics can be found in `/python/notebooks/` folder and assignments can be found in `/python/exercises` folder
+The reading materials for Python basics can be found in `/python/notebooks/` folder and assignments can be found in `/python/exercises` folder.
+
+## SQL
+
+The reading materials for Python basics can be found in `/sql/notebooks/` folder and assignments can be found in `/sql/exercises` folder.
 
 ### Getting started with learning materials
 
