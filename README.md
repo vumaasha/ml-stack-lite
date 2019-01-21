@@ -23,6 +23,8 @@ The reading materials for Python basics can be found in `/python/notebooks/` fol
 
 The reading materials for Python basics can be found in `/sql/notebooks/` folder and assignments can be found in `/sql/exercises` folder.
 
+** This repository is pretty much a living one, the notebooks and exercises are updated as required. The material for the other sections will be added shortly **
+
 ### Getting started with learning materials
 
 You can use **[Google Collab](https://colab.research.google.com/)** (a simple one click solution from Google) to read and playaround with the learning materials/notebooks. We recommend you to use this setup, to avoid any version or installation problems. To Open a notebook in this GitHub Repository in Google Collab:
