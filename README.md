@@ -25,6 +25,14 @@ The reading materials for Python basics can be found in `/sql/notebooks/` folder
 
 # **This repository is pretty much a living one, the notebooks and exercises are updated as required. The material for the other sections will be added shortly. Also, please feel free to open a PR if you want to add/modify the course contents**
 
+## Machine Learning
+
+Data Science Handbook:
+https://github.com/jakevdp/PythonDataScienceHandbook
+
+Interpretable Machine Learning:
+https://christophm.github.io/interpretable-ml-book/
+
 ### Getting started with learning materials
 
 You can clone this repository and launch jupyter and access the notebooks
